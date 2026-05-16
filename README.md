@@ -20,3 +20,7 @@ All data files are in the `/data` directory and are loaded directly into the not
 ## Dependencies
 - R: `sqldf`, `dplyr`, `ggplot2`, `readr`, `lubridate`
 - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `pymongo`
+
+---
+
+*Every line of code is a step forward. Keep learning.* 📊
