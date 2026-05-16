@@ -36,8 +36,8 @@ northstar-data_analysis/
 |   └── cleaned/
 │
 ├── notebooks/
-│   ├── 01_SQL_R_Analysis.ipynb            # R  – SQL queries + CRUD Operations
-|   ├── 02_R_Statistics.ipynb              # R  – Statistical analysis
+│   ├── 01_SQL_R_Analysis.ipynb            # R      – SQL queries + CRUD Operations
+|   ├── 02_R_Statistics.ipynb              # R      – Statistical analysis
 │   ├── 03_Python_Analytics.ipynb          # Python – Pandas, cleaning, charts
 │   ├── 04_MongoDB_Implementation.ipynb    # Python – PyMongo CRUD and aggregation
 │   └── 05_Query_Optimisation.ipynb        # Python – Index creation, explain plans
@@ -52,5 +52,5 @@ northstar-data_analysis/
 ```
 ---
 
-*The true measure of success isn't a perfect grade, but the commitment to learn continously for a slong as you live and the willingness to oversome challenges that matter.
-Every line of code is a step forward. Keep learning.* 📊
+*The true measure of success isn't a perfect grade, but the commitment to learn continously, for as long as you live, and the willingness to overcome the challenges that matter.
+Every line of code is a step forward. Keep learning :)* 📊
