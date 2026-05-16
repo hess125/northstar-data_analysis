@@ -23,7 +23,7 @@ All data files are in the `/data` directory and are loaded directly into the not
 - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `pymongo`
 
 ## Directory Structure
-'''
+```
 northstar-data_analysis/
 │
 ├── README.md
@@ -49,7 +49,7 @@ northstar-data_analysis/
     │   ├── notebook3/                     #                   in: 03_Python_Analytics.ipynb
     │   └── notebook4/                     #                   in: 04_MongoDB_Implementation.ipynb
     └── tables/
-'''
+```
 ---
 
 *The true measure of success isn't a perfect grade, but the commitment to learn continously for a slong as you live and the willingness to oversome challenges that matter.
