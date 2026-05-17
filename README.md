@@ -11,9 +11,9 @@ This repository contains the analytical work supporting the coursework report:
 |-----------------------------|-----------------------------------------|
 | 01_SQL_R_Analysis           | SQL queries in R                        |
 | 02_R_Statistics.ipynb       | Statistical Analysis                    |
-| 02_Python_Analytics         | Data cleaning and visualisation         |
-| 03_MongoDB_Implementation   | NoSQL design and CRUD                   |
-| 04_Query_Optimisation       | Index strategy and explain plans        |
+| 03_Python_Analytics         | Data cleaning and visualisation         |
+| 04_MongoDB_Implementation   | NoSQL design and CRUD                   |
+| 05_Query_Optimisation       | Index strategy and explain plans        |
 
 ## Dataset
 All data files are in the `/data` directory and are loaded directly into the notebooks.
